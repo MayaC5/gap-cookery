@@ -1,0 +1,17 @@
+{
+    "id": "banana-cake",
+    "title": "Banana Cake",
+    "versions": [
+        {
+            "version": "1.0",
+            "created": "2022-02-01",
+            "notes": "黃金比例2:1",
+            "items": [
+                {"name": "香蕉", "amount": "1kg"},
+                {"name": "糖", "amount": "1kg"},
+                {"name": "水", "amount": "1L"}
+            ],
+            "steps": []
+        }
+    ]
+}

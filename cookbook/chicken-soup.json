@@ -1,0 +1,34 @@
+{
+    "id": "chicken-soup",
+    "title": "Chicken Soup",
+    "versions": [
+        {
+            "version": "1.0",
+            "created": "2022-02-01",
+            "notes": "黃金比例2:1",
+            "items": [
+                {"name": "鰹魚", "amount": "10g"},
+                {"name": "魚乾", "amount": "20g"},
+                {"name": "水", "amount": "1L"}
+            ],
+            "steps": []
+        },
+        {
+            "version": "2.0",
+            "created": "2022-08-15",
+            "notes": "黃金比例2:1",
+            "items": [
+                {"name": "雞骨+小小肉", "amount": "2kg"},
+                {"name": "Shallot", "amount": "1個"},
+                {"name": "蘿蔔", "amount": "1小個"},
+                {"name": "Apple", "amount": "1個"},
+                {"name": "水", "amount": "1.1L"}
+            ],
+            "steps": [
+                "Oven everything except apple and water",
+                "Add all stuff and boil"
+
+            ]
+        }
+    ]
+}
